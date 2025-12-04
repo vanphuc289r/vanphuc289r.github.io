@@ -3,6 +3,13 @@ facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 google.com, pub-5222791600632197, DIRECT, f08c47fec0942fa0
 facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com,3055722897079350,direct
+google.com,pub-1067374679252537,reseller,f08c47fec0942fa0
+google.com,pub-2749054827332983,reseller,f08c47fec0942fa0
+pubmatic.com,161480,reseller,5d62403b186f2ace
+pubmatic.com,162539,reseller,5d62403b186f2ace
+google.com,pub-4686405784285870,reseller,f08c47fec0942fa0
 inmobi.com, ce8fc8ddda9a4b85875594085f6ff476, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
